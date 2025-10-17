@@ -15,5 +15,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 for run:
 
-npm install
+npm install 
+
 npm run dev
